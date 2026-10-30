@@ -301,13 +301,15 @@ A continuación se presentan los espacios destinados a documentar visualmente lo
 
 ### 🔒 Cifrado y descifrado AES
 
+<img width="753" height="851" alt="image" src="https://github.com/user-attachments/assets/dc6953c0-14a7-45a6-99d4-067e1164c3dd" />
 
+<img width="763" height="831" alt="image" src="https://github.com/user-attachments/assets/2d7ac03d-2054-4e06-9eee-2bad2833bd42" />
 
 ### 📜 Generación de certificados digitales
 
-![Generación de certificados](docs/img/certificados.png)
+<img width="576" height="882" alt="image" src="https://github.com/user-attachments/assets/977e7737-0e7c-4af1-9556-66c064ee1a8b" />
 
-*Figura 2. Generación del par de claves RSA, CSR y certificado digital.*
+<img width="327" height="162" alt="image" src="https://github.com/user-attachments/assets/d3c58301-b04a-4057-bd10-e03f2099c44d" />
 
 ### ✍️ Firma y verificación de mensajes
 
@@ -354,20 +356,12 @@ keysCert/privkey.pem
 keys/private_key.pem
 ```
 
-## 📚 Conclusiones
+## 👨‍💻 Autores
 
-El desarrollo de este laboratorio permitió conocer y aplicar diferentes mecanismos criptográficos mediante PHP, comprendiendo la importancia del cifrado, la generación de claves y la utilización de certificados digitales.
-
-También permitió experimentar con las firmas digitales y su proceso de verificación, identificando cómo contribuyen a garantizar la autenticidad e integridad de la información.
-
-Finalmente, el estudio de Libsodium permitió conocer alternativas modernas para implementar operaciones criptográficas, destacando la importancia de utilizar bibliotecas especializadas y prácticas seguras en el desarrollo de software.
-
-## 👨‍💻 Autor
-
-**Estudiante:** [Tu nombre]  
-**Asignatura:** [Nombre de la asignatura]  
-**Institución:** [Nombre de la universidad]  
-**Fecha:** [Fecha de entrega]
+**Estudiantes:** Marcos Navarro, Samuel Orocú   
+**Asignatura:** Desarrollo Web  
+**Institución:** Universidad Tecnológica de Panamá 
+**Fecha:** 30-10-2026
 
 ---
 
