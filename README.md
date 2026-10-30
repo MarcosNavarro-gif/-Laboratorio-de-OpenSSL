@@ -61,12 +61,6 @@ Implementar diferentes mecanismos criptográficos mediante PHP, utilizando OpenS
  ┃ ┣ 📄 private_key.pem
  ┃ ┣ 📄 public_key.pem
  ┃ ┗ 📄 signature.dat
- ┣ 📂 docs
- ┃ ┗ 📂 img
- ┃    ┣ 🖼️ cifrado.png
- ┃    ┣ 🖼️ certificados.png
- ┃    ┣ 🖼️ firmas.png
- ┃    ┗ 🖼️ sodium.png
  ┣ 📄 Encriptacion.php
  ┣ 📄 FirmaOtra.php
  ┣ 📄 FirmarMesaje.php
@@ -313,17 +307,17 @@ A continuación se presentan los espacios destinados a documentar visualmente lo
 
 ### ✍️ Firma y verificación de mensajes
 
-![Firma digital](docs/img/firmas.png)
+<img width="750" height="716" alt="image" src="https://github.com/user-attachments/assets/4eba15db-b5b3-4b37-948b-b25d320855fd" />
 
-*Figura 3. Generación y verificación de una firma digital.*
+<img width="347" height="112" alt="image" src="https://github.com/user-attachments/assets/207e619f-b554-44cd-8406-a7657b76b155" />
+
+<img width="628" height="873" alt="image" src="https://github.com/user-attachments/assets/4e225afd-55cb-4932-8a89-a2914612cf67" />
+
+<img width="633" height="751" alt="image" src="https://github.com/user-attachments/assets/3c710a94-8386-4846-82a2-642ad1ea5877" />
 
 ### 🛡️ Implementación con Libsodium
 
-![Libsodium](docs/img/sodium.png)
-
-*Figura 4. Ejecución del ejemplo criptográfico utilizando Libsodium.*
-
-> **Importante:** Guarda tus capturas reales en `docs/img/` utilizando los nombres indicados. Puedes cambiar las rutas de las imágenes según la organización de tu repositorio.
+<img width="632" height="878" alt="image" src="https://github.com/user-attachments/assets/c2f6ef01-93be-46b5-8f71-0b5c2332c3e7" />
 
 ---
 
