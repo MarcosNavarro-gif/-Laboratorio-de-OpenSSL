@@ -1,7 +1,7 @@
 # 🔐 Laboratorio de Criptografía con PHP
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/PHP-8.3.28-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/OpenSSL-Criptografía-721412?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL">
   <img src="https://img.shields.io/badge/Libsodium-Seguridad-4B6B88?style=for-the-badge" alt="Libsodium">
   <img src="https://img.shields.io/badge/Estado-Funcional-success?style=for-the-badge" alt="Estado">
